@@ -2,6 +2,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Seja Bem-Vindo</h1></summary>
+    <img src="https://profile-counter.glitch.me/RyanBezerra/count.svg">
   </ul>
 </div>
 
