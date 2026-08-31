@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=100&lines=Ryan+Bezerra;%F0%9F%92%BB+Web+Developer+%40+SS+Digital;PHP+%C2%B7+JS+%C2%B7+PostgreSQL+%C2%B7+CRMs+%26+SIGs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=480&height=90&lines=Ryan+Bezerra;%F0%9F%92%BB+Web+Developer+%40+SS+Digital;PHP+%C2%B7+JS+%C2%B7+PostgreSQL+%C2%B7+CRMs+%26+SIGs)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/github-profile-views-counter/?username=RyanBezerra&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 &nbsp;
@@ -40,9 +40,9 @@ Construo **CRMs, SIGs, dashboards e integrações** — do funil de vendas ao si
 
 ### 📊 Metrics (ao vivo)
 
-<!-- Gerado pelo Action lowlighter/metrics — atualiza a cada ~6h -->
+<!-- SVG nativo 480px — NÃO usar width=100% (estica e parece zoom) -->
 <div align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="480" />
 </div>
 
 ---
@@ -97,6 +97,6 @@ UI responsiva alinhada ao fluxo do usuário
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:58A6FF,100:0D1117&height=120&section=footer" width="100%" alt="footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:58A6FF,100:0D1117&height=90&section=footer" width="480" alt="footer wave"/>
 
 </div>
