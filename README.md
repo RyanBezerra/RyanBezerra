@@ -1,7 +1,4 @@
-<!--
-  Perfil dinâmico — widgets atualizam sozinhos (stats, views, streak, gráfico).
-  Snake: workflow `.github/workflows/snake.yml` regenera todo dia.
--->
+<!-- Perfil powered by lowlighter/metrics + contribution snake -->
 
 <div align="center">
 
@@ -15,13 +12,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-nascimento-bezerra/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryandonascimentobezerra@gmail.com)
-[![Portfolio](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyanBezerra)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyanBezerra)
 
 </div>
 
 ---
 
-### 👋 Sobre / About
+### 👋 Sobre
 
 Desenvolvedor Web na **SS Digital** · Bacharel em Ciência da Computação  
 Construo **CRMs, SIGs, dashboards e integrações** — do funil de vendas ao sistema em produção.
@@ -32,32 +29,20 @@ Construo **CRMs, SIGs, dashboards e integrações** — do funil de vendas ao si
 <summary><b>📍 Mais detalhes</b></summary>
 
 - 🔭 Hoje: sistemas reais (CRM Leadss, e-commerces, módulos PM)
-- 🧰 Backend forte em **PHP + PostgreSQL** · Frontend em **JS / Bootstrap**
+- 🧰 Backend: **PHP + PostgreSQL** · Frontend: **JS / Bootstrap**
 - 🎨 UI no **Figma** · ambiente no **Arch Linux**
 - 🌱 Também: Python, React, Docker, RPA quando o fluxo pede
-- 📫 Contato: **ryandonascimentobezerra@gmail.com**
+- 📫 **ryandonascimentobezerra@gmail.com**
 
 </details>
 
 ---
 
-### 📊 Stats ao vivo
+### 📊 Metrics (ao vivo)
 
+<!-- Gerado pelo Action lowlighter/metrics — atualiza a cada ~6h -->
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RyanBezerra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=RyanBezerra&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" alt="GitHub streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanBezerra&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RyanBezerra&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f78166&area=true&hide_border=true" alt="Contribution graph" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </div>
 
 ---
@@ -70,14 +55,6 @@ Construo **CRMs, SIGs, dashboards e integrações** — do funil de vendas ao si
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanBezerra/RyanBezerra/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/RyanBezerra/RyanBezerra/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
-
----
-
-### 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RyanBezerra&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=8" alt="trophies" />
 </div>
 
 ---
@@ -102,23 +79,11 @@ Construo **CRMs, SIGs, dashboards e integrações** — do funil de vendas ao si
 ### 🚀 O que entrego
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│  CRM / funil de vendas & qualificação               │
-│  Dashboards · agenda · equipe · indicadores         │
-│  Integrações & manutenção de legado                 │
-│  UI responsiva alinhada ao fluxo do usuário         │
-└─────────────────────────────────────────────────────┘
+CRM / funil de vendas & qualificação
+Dashboards · agenda · equipe · indicadores
+Integrações & manutenção de legado
+UI responsiva alinhada ao fluxo do usuário
 ```
-
----
-
-### 📈 Métricas extras
-
-<div align="center">
-
-![Metrics](https://metrics.lecoq.io/RyanBezerra?template=classic&base=0&base.indepth=false&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&lines=1&config.timezone=America%2FSao_Paulo)
-
-</div>
 
 ---
 
