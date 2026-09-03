@@ -2103,7 +2103,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    11.3m added, 2.26m removed
+                                    7.42m added, 1.49m removed
                                 </div>
                             </section>
                             <section>
@@ -2149,12 +2149,6 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">RyanBezerra/SS_Digital</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
                             <span class="diff-handle">RyanBezerra/Faculdade</span>
                         </div>
                         <div class="field">
@@ -2169,20 +2163,14 @@
                             </svg>
                             <span class="diff-handle">RyanBezerra/MovimentoPyOpenCV</span>
                         </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <span class="diff-handle">RyanBezerra/DesktopArch</span>
+                        </div>
                     </section>
                     <section>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats">
-                                <span class="added"> +3.89m</span>
-                                <span class="deleted">  -763k</span>
-                            </div>
-                            <span> </span>
-                        </div>
                         <div class="field">
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
@@ -2219,6 +2207,18 @@
                             </div>
                             <span> </span>
                         </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats">
+                                <span class="added">  +814k</span>
+                                <span class="deleted">     -1</span>
+                            </div>
+                            <span> </span>
+                        </div>
                     </section>
                 </div>
             </section>
@@ -2237,14 +2237,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="230.09172585890528" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="230.09172585890528" y="0" width="62.42347544266223" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="292.51520130156746" y="0" width="58.88807425378381" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="351.4032755553513" y="0" width="32.10771108018677" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="383.5109866355381" y="0" width="26.912659873745277" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="410.42364650928334" y="0" width="25.238474716892128" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="435.6621212261755" y="0" width="14.510615371332348" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="450.1727365975078" y="0" width="9.82726340249219" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="230.00065357686242" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="230.00065357686242" y="0" width="62.54640495107074" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="292.54705852793313" y="0" width="58.87179941871854" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="351.4188579466517" y="0" width="32.09500257227181" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="383.51386051892354" y="0" width="26.902007611733705" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="410.41586813065726" y="0" width="25.22848511175023" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="435.6443532424075" y="0" width="14.532273070390875" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="450.1766263127983" y="0" width="9.823373687201649" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2256,7 +2256,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>50.02%</div>
+                                <div>50%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2289,7 +2289,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>3.15%</div>
+                                <div>3.16%</div>
                             </small>
                         </div>
                     </section>
@@ -2302,7 +2302,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>13.57%</div>
+                                <div>13.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2324,7 +2324,7 @@
                                 C
                             </div>
                             <small>
-                                <div>5.49%</div>
+                                <div>5.48%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2599,7 +2599,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Sept 2026, 23:27:53 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Sept 2026, 07:31:23 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
