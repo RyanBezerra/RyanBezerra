@@ -2093,7 +2093,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    12m added, 2.51m removed
+                                    7.90m added, 1.71m removed
                                 </div>
                             </section>
                             <section>
@@ -2139,12 +2139,6 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">RyanBezerra/SS_Digital</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
                             <span class="diff-handle">RyanBezerra/Faculdade</span>
                         </div>
                         <div class="field">
@@ -2159,20 +2153,14 @@
                             </svg>
                             <span class="diff-handle">RyanBezerra/Nucleo</span>
                         </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <span class="diff-handle">RyanBezerra/MovimentoPyOpenCV</span>
+                        </div>
                     </section>
                     <section>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats">
-                                <span class="added"> +4.16m</span>
-                                <span class="deleted">  -793k</span>
-                            </div>
-                            <span> </span>
-                        </div>
                         <div class="field">
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
@@ -2209,6 +2197,18 @@
                             </div>
                             <span> </span>
                         </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats">
+                                <span class="added">  +881k</span>
+                                <span class="deleted">   -176</span>
+                            </div>
+                            <span> </span>
+                        </div>
                     </section>
                 </div>
             </section>
@@ -2227,14 +2227,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="223.04432254530246" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="223.04432254530246" y="0" width="66.96571926343726" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="290.01004180873974" y="0" width="63.05418770729914" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="353.0642295160389" y="0" width="31.122470407663954" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="384.18669992370286" y="0" width="26.067037149866586" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="410.2537370735694" y="0" width="24.464019890715953" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="434.7177569642854" y="0" width="15.756533972600609" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="450.474290936886" y="0" width="9.52570906311404" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="222.98834616784544" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="222.98834616784544" y="0" width="67.0396561445078" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="290.02800231235324" y="0" width="63.05948592961597" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="353.0874882419692" y="0" width="31.114659748638637" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="384.20214799060784" y="0" width="26.060495228987204" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="410.262643219595" y="0" width="24.4578802714874" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="434.7205234910824" y="0" width="15.7561580679004" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="450.4766815589828" y="0" width="9.523318441017151" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2246,7 +2246,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>48.49%</div>
+                                <div>48.48%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2292,7 +2292,7 @@
                                 PHP
                             </div>
                             <small>
-                                <div>14.56%</div>
+                                <div>14.57%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2303,7 +2303,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>6.77%</div>
+                                <div>6.76%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2589,7 +2589,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Oct 2026, 14:12:12 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Oct 2026, 18:41:06 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
