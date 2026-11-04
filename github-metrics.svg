@@ -2098,7 +2098,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    5.98m added, 1.85m removed
+                                    7.90m added, 1.71m removed
                                 </div>
                             </section>
                             <section>
@@ -2144,7 +2144,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">RyanBezerra/SS_Digital</span>
+                            <span class="diff-handle">RyanBezerra/Faculdade</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2162,7 +2162,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">RyanBezerra/Waytify</span>
+                            <span class="diff-handle">RyanBezerra/MovimentoPyOpenCV</span>
                         </div>
                     </section>
                     <section>
@@ -2173,8 +2173,8 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +4.20m</span>
-                                <span class="deleted"> -1.35m</span>
+                                <span class="added">  +823k</span>
+                                <span class="deleted">  -819k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -2206,11 +2206,11 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
+                            <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">  +160k</span>
-                                <span class="deleted">  -159k</span>
+                                <span class="added">  +881k</span>
+                                <span class="deleted">   -176</span>
                             </div>
                             <span> </span>
                         </div>
@@ -2232,14 +2232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="218.98527747814592" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="218.98527747814592" y="0" width="66.08510344503483" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="285.0703809231808" y="0" width="62.01721978862131" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="347.08760071180205" y="0" width="54.519764474241256" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="401.6073651860433" y="0" width="30.552224898665813" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="432.1595900847091" y="0" width="15.489680963169858" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="447.649271047879" y="0" width="8.906061048810276" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="456.5553320966893" y="0" width="3.4446679033107275" height="8" fill="#fedf5b"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="218.92524335188435" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="218.92524335188435" y="0" width="66.18243475374962" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="285.10767810563397" y="0" width="62.004869992452015" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="347.11254809808594" y="0" width="54.504818051989076" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="401.617366150075" y="0" width="30.543849102136196" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="432.16121525221115" y="0" width="15.491441709231777" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="447.652656961443" y="0" width="8.90361948013655" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="456.5562764415795" y="0" width="3.443723558420431" height="8" fill="#fedf5b"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2251,7 +2251,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>47.61%</div>
+                                <div>47.59%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2297,7 +2297,7 @@
                                 PHP
                             </div>
                             <small>
-                                <div>14.37%</div>
+                                <div>14.39%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2594,7 +2594,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Nov 2026, 01:21:08 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Nov 2026, 10:37:31 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
